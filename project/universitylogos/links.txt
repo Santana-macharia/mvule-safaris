@@ -1,0 +1,110 @@
+
+<a href="http://www.ku.ac.ke/">
+<img src="kenyatta1.png" alt="Go to ku!" width="100" height="100" border="0">
+</a>
+<a href="http://maseno.ac.ke/index/">
+<img src="Maseno.png" alt="Go to maseno!" width="100" height="100" border="0">
+</a>
+<a href="http://www.uonbi.ac.ke/">
+<img src="uon1.JPG" alt="Go to uon!" width="100" height="100" border="0">
+</a>
+<a href="http://strathmore.edu/">
+<img src="strathmore1.jpg" alt="Go to strathmore!" width="100" height="100" border="0">
+</a>
+<a href="http://www.anu.ac.ke/">
+<img src="nazarene1.jpeg" alt="Go to anu!" width="100" height="100" border="0">
+</a>
+<a href="http://www.aiu.ac.ke/">
+<img src="africainternational1.jpg" alt="http://www.aiu.ac.ke/" width="100" height="100" border="0">
+</a>
+<a href="http://www.cuea.edu/">
+<img src="CatholicUniversity1.jpg" alt="Go to W3Schools!" width="179" height="100" border="0">
+</a>
+<a href="http://chuka.ac.ke/">
+<img src="chukauniversity1.jpg" alt="Go to W3Schools!" width="100" height="100" border="0">
+</a>
+<a href="http://www.daystar.ac.ke/">
+<img src="daystar1.png" alt="Go to daystar!" width="100" height="100" border="0">
+</a>
+<a href="http://www.dkut.ac.ke/">
+<img src="dedan1.png" alt="Go to dkuat!" width="100" height="100" border="0">
+</a>
+<a href="http://www.egerton.ac.ke/">
+<img src="Egerton1.png" alt="Go to egerton!" width="100" height="100" border="0">
+</a>
+<a href="https://jooust.ac.ke/">
+<img src="jaramogi1.png" alt="Go to jaramogi!" width="100" height="100" border="0">
+</a>
+  <p><a href="http://www.jkuat.ac.ke/">
+<img src="jkuat1.png" alt="Go to jkuat!" width="100" height="100" border="0">
+</a>
+<a href="http://www.kabarak.ac.ke/">
+<img src="kabarak1.png" alt="Go to kabarak!" width="100" height="100" border="0">
+</a>
+<a href="https://www.karu.ac.ke/">
+<img src="karatina1.png" alt="Go to karatina!" width="100" height="100" border="0">
+</a>
+<a href="http://www.kca.ac.ke/">
+<img src="kca1.png" alt="Go to kca!" width="100" height="100" border="0">
+</a>
+<a href="http://khu.ac.ke/">
+<img src="kenyahighlands1.jpg" alt="Go to kenya highlands!" width="100" height="100" border="0">
+</a>
+<a href="http://www.kemu.ac.ke/">
+<img src="kemu1.jpg" alt="Go to kemu!" width="100" height="100" border="0">
+</a>
+<a href="http://www.kibabiiuniversity.ac.ke/">
+<img src="kibabii1.png" alt="Go to kibabi!" width="100" height="100" border="0">
+</a>
+<a href="https://www.kisiiuniversity.ac.ke/">
+<img src="kisii1.jpg" alt="Go to kisii!" width="100" height="100" border="0">
+</a>
+<a href="http://www.laikipia.ac.ke/">
+<img src="laikipia1.jpg" alt="Go to laikipia!" width="100" height="100" border="0">
+</a>
+<a href="http://www.mmarau.ac.ke/">
+<img src="maasai1.png" alt="Go to maasai!" width="100" height="100" border="0">
+</a>
+<a href="http://www.mmust.ac.ke/">
+<img src="masinde1.jpg" alt="Go to masinde" width="179" height="100" border="0">
+</a>
+<a href="https://www.must.ac.ke/">
+<img src="meru1.jpg" alt="Go to meru!" width="100" height="100" border="0">
+</a>
+<a href="https://www.mu.ac.ke/">
+<img src="moi1.jpg" alt="Go to moi!" width="100" height="100" border="0">
+</a>
+<a href="http://www.mku.ac.ke/">
+<img src="mku1.png" alt="Go to mku!" width="100" height="100" border="0">
+</a>
+<a href="http://www.mmu.ac.ke/">
+<img src="mmu1.png" alt="Go to mmu!" width="100" height="100" border="0">
+</a>
+<a href="http://www.pacuniversity.ac.ke/">
+<img src="pac1.jpg" alt="Go to pac!" width="100" height="100" border="0">
+</a>
+<a href="https://www.pu.ac.ke/">
+<img src="pwani1.jpg" alt="Go to pwani!" width="179" height="100" border="0">
+</a>
+<a href="http://www.seku.ac.ke/">
+<img src="seku1.jpg" alt="Go to seku!" width="100" height="100" border="0">
+</a>
+
+<a href="http://www.spu.ac.ke/">
+<img src="stpaul1.png" alt="Go to stpaul!" width="100" height="100" border="0">
+</a>
+<a href="http://tukenya.ac.ke/">
+<img src="tuk1.png" alt="Go to tuk!" width="100" height="100" border="0">
+</a>
+<a href="http://kabianga.ac.ke/main/">
+<img src="kabianga1.png" alt="Go to kabianga!" width="100" height="100" border="0">
+</a>
+<a href="http://www.usiu.ac.ke/">
+<img src="usiu1.png" alt="Go to usiu!" width="100" height="100" border="0">
+</a>
+<a href="http://www.uoeld.ac.ke/karibu/">
+<img src="uoe1.jpg" alt="Go to uoe!" width="100" height="100" border="0">
+</a>
+<a href="http://cuk.ac.ke/">
+<img src="cuk1.png" alt="Go to cuk!" width="100" height="100" border="0">
+</a>
